@@ -20,7 +20,6 @@ tags:
 components:
   skill:
     repo: "uniswap/uniswap-ai"
-    commit: "fad2ae7021611db606e8eb8227686df5b31cc931"
 
 api_calls:
   - "trade-api.gateway.uniswap.org"
