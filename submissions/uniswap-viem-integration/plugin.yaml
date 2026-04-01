@@ -1,0 +1,25 @@
+schema_version: 1
+name: uniswap-viem-integration
+alias: "Uniswap Viem Integration"
+version: "1.0.0"
+description: "Integrate EVM blockchains using viem and wagmi for TypeScript/JavaScript applications"
+author:
+  name: "Uniswap Labs"
+  github: "wkoutre"
+license: MIT
+category: utility
+tags:
+  - viem
+  - wagmi
+  - ethereum
+  - evm
+  - blockchain
+  - typescript
+  - smart-contracts
+
+components:
+  skill:
+    repo: "uniswap/uniswap-ai"
+    commit: "fad2ae7021611db606e8eb8227686df5b31cc931"
+
+api_calls: []
